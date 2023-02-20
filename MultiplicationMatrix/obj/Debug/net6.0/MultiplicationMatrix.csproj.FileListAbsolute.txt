@@ -1,0 +1,15 @@
+/Users/amirbekmirzozoda/RiderProjects/MultiplicationMatrix/MultiplicationMatrix/bin/Debug/net6.0/MultiplicationMatrix
+/Users/amirbekmirzozoda/RiderProjects/MultiplicationMatrix/MultiplicationMatrix/bin/Debug/net6.0/MultiplicationMatrix.deps.json
+/Users/amirbekmirzozoda/RiderProjects/MultiplicationMatrix/MultiplicationMatrix/bin/Debug/net6.0/MultiplicationMatrix.runtimeconfig.json
+/Users/amirbekmirzozoda/RiderProjects/MultiplicationMatrix/MultiplicationMatrix/bin/Debug/net6.0/MultiplicationMatrix.dll
+/Users/amirbekmirzozoda/RiderProjects/MultiplicationMatrix/MultiplicationMatrix/bin/Debug/net6.0/MultiplicationMatrix.pdb
+/Users/amirbekmirzozoda/RiderProjects/MultiplicationMatrix/MultiplicationMatrix/obj/Debug/net6.0/MultiplicationMatrix.csproj.AssemblyReference.cache
+/Users/amirbekmirzozoda/RiderProjects/MultiplicationMatrix/MultiplicationMatrix/obj/Debug/net6.0/MultiplicationMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirbekmirzozoda/RiderProjects/MultiplicationMatrix/MultiplicationMatrix/obj/Debug/net6.0/MultiplicationMatrix.AssemblyInfoInputs.cache
+/Users/amirbekmirzozoda/RiderProjects/MultiplicationMatrix/MultiplicationMatrix/obj/Debug/net6.0/MultiplicationMatrix.AssemblyInfo.cs
+/Users/amirbekmirzozoda/RiderProjects/MultiplicationMatrix/MultiplicationMatrix/obj/Debug/net6.0/MultiplicationMatrix.csproj.CoreCompileInputs.cache
+/Users/amirbekmirzozoda/RiderProjects/MultiplicationMatrix/MultiplicationMatrix/obj/Debug/net6.0/MultiplicationMatrix.dll
+/Users/amirbekmirzozoda/RiderProjects/MultiplicationMatrix/MultiplicationMatrix/obj/Debug/net6.0/refint/MultiplicationMatrix.dll
+/Users/amirbekmirzozoda/RiderProjects/MultiplicationMatrix/MultiplicationMatrix/obj/Debug/net6.0/MultiplicationMatrix.pdb
+/Users/amirbekmirzozoda/RiderProjects/MultiplicationMatrix/MultiplicationMatrix/obj/Debug/net6.0/MultiplicationMatrix.genruntimeconfig.cache
+/Users/amirbekmirzozoda/RiderProjects/MultiplicationMatrix/MultiplicationMatrix/obj/Debug/net6.0/ref/MultiplicationMatrix.dll

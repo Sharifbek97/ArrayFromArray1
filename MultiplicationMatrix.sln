@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationMatrix", "MultiplicationMatrix\MultiplicationMatrix.csproj", "{A2C32E9F-0C73-40ED-9859-E806B8FE8979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2C32E9F-0C73-40ED-9859-E806B8FE8979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C32E9F-0C73-40ED-9859-E806B8FE8979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C32E9F-0C73-40ED-9859-E806B8FE8979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C32E9F-0C73-40ED-9859-E806B8FE8979}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
